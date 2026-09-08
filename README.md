@@ -277,19 +277,6 @@ Worked on practical web development and software engineering workflows, gaining 
 
 ---
 
-# 🔥 LeetCode Activity
-
-<div align="center">
-
-<a href="https://leetcode.com/u/kavin_015/">
-
-<img src="https://leetcard.jacoblin.cool/kavin_015?theme=dark&animation=true&ext=activity&cache=0" width="650" alt="Kavin S LeetCode Activity"/>
-
-</a>
-
-</div>
-
----
 
 # 🗓️ LeetCode Submission Heatmap
 
