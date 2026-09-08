@@ -1,36 +1,39 @@
-# 👋 Hi, I'm Kavin
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=850&height=50&lines=Software+Engineer;Full+Stack+Developer;AI+%26+IoT+Enthusiast;Problem+Solver;Building+Intelligent+%26+Scalable+Systems" alt="Typing SVG"/>
+# 👋 Hi, I'm Kavin
+
+## <span style="color:#00D9FF;">Computer Science & Engineering Student</span>
+
+### 🚀 Software Developer | Full Stack Developer | AI & IoT Enthusiast
+
+<p>
+Computer Science & Engineering student passionate about building
+<strong>intelligent, scalable and real-world software applications.</strong>
+</p>
+
+<p>
+Currently focused on <strong>Java, Python, JavaScript, React, Node.js, AI APIs,
+REST APIs, IoT and real-time systems</strong> while continuously improving
+my problem-solving and software engineering skills.
+</p>
 
 <br/>
-
-### Computer Science & Engineering Student | Software Developer
-
-📍 Coimbatore, Tamil Nadu, India
-
-<br/>
-
-<a href="https://www.linkedin.com/in/kavin1506/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:kavinsp06@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
 
 <a href="https://github.com/kavin-dot">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/u/kavin_015/">
-<img src="https://img.shields.io/badge/LeetCode-Kavin__015-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-<br/><br/>
+<a href="https://www.linkedin.com/in/kavin1506/">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<img src="https://komarev.com/ghpvc/?username=kavin-dot&label=PROFILE%20VIEWS&color=38BDF8&style=for-the-badge" alt="Profile Views"/>
+<a href="mailto:kavinsp06@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
