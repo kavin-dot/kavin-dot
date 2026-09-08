@@ -256,8 +256,6 @@ Worked on practical web development and software engineering workflows, gaining 
 <img width="75%" src="https://streak-stats.demolab.com?user=kavin-dot&theme=radical&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=FB7185&currStreakLabel=FFFFFF"/>
 </a>
 
-</div>
-
 ---
 
 # 🧩 LeetCode — Live Progress
@@ -266,28 +264,15 @@ Worked on practical web development and software engineering workflows, gaining 
 
 <a href="https://leetcode.com/u/kavin_015/">
 
-<img src="https://leetcard.jacoblin.cool/kavin_015?theme=dark&animation=true&cache=0" width="650" alt="Kavin S LeetCode Stats"/>
+<img src="https://leetcard.jacoblin.cool/kavin_015?theme=dark&font=Baloo_2&ext=heatmap&cache=0" width="700" alt="Kavin S LeetCode Live Progress"/>
 
 </a>
 
 <br/><br/>
 
 <a href="https://leetcode.com/u/kavin_015/">
-<img src="https://img.shields.io/badge/View%20LeetCode%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
 
-</div>
-
----
-
-
-# 🗓️ LeetCode Submission Heatmap
-
-<div align="center">
-
-<a href="https://leetcode.com/u/kavin_015/">
-
-<img src="https://leetcard.jacoblin.cool/kavin_015?theme=dark&animation=true&ext=heatmap&cache=0" width="700" alt="Kavin S LeetCode Heatmap"/>
+<img src="https://img.shields.io/badge/VIEW%20LEETCODE%20PROFILE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 
 </a>
 
